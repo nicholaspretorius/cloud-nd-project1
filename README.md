@@ -29,11 +29,21 @@ AWS Services Used:
 * CodePipeline (Continuous Delivery)
 * GitHub (Code Repository)
 
-#### AWS Screenshots: 
+#### AWS Screenshots
 
 ##### S3 Bucket
 
+S3 Bucket Files:
+
 ![S3 Bucket](/img/project/s3-bucket.png)
+
+S3 Bucket Hosting:
+
+![S3 Bucket](/img/project/s3-bucket-hosting.png)
+
+S3 Bucket Policy
+
+![S3 Bucket](/img/project/s3-bucket-policy.png)
 
 ##### CloudFront Distribution
 
