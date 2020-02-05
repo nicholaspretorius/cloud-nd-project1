@@ -13,7 +13,7 @@ The code for this project was provided by Udacity, with minor alterations made b
 
 The static website files are hosted in AWS S3 and distributed by AWS CloudFront as per the project [rubric](https://review.udacity.com/#!/rubrics/2573/view). 
 
-According to the section titled "Suggestions to Make Your Project Stand Out!", I changed some items on the page such as the title, the background image and some of the content.
+According to the section titled "Suggestions to Make Your Project Stand Out!", I changed some items on the page such as the title, the background image, some of the content and added the Udacity favicon.
 
 
 #### CodePipeline
