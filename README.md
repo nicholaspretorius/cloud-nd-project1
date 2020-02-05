@@ -41,7 +41,7 @@ S3 Bucket Hosting:
 
 ![S3 Bucket](/img/project/s3-bucket-hosting.png)
 
-S3 Bucket Policy
+S3 Bucket Policy:
 
 ![S3 Bucket](/img/project/s3-bucket-policy.png)
 
@@ -52,5 +52,10 @@ S3 Bucket Policy
 
 ##### CodePipeline
 
+CodePipeline:
+
 ![CodePipeline](/img/project/codepipeline.png)
+
+CodePipeline Stages:
+
 ![CodePipeline Stages](/img/project/codepipeline-stages.png)
